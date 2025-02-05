@@ -1,0 +1,13 @@
+---
+title: "Coulee Data Center"
+---
+
+I founded the Coulee Data Center (CDC) in 2025. The CDC website is under construction! The mission of the CDC is to
+
+*"...deliver actionable, data-driven insights at no cost to non-profit organizations and public services in the Coulee Region of Southwestern Wisconsin and Southeastern Minnesota, empowering them to make informed decisions and amplify their impact."*
+
+Each semester the CDC collaborates with a local partner on a data analysis project. Our first partner is Habitat for Humanity of the Greater La Crosse Region! More details about our work is available on our CDC website (under construction).
+
+If you know of a local partner that would like to work with the CDC, or you would like to cover the work of the CDC, please [reach out to me](contact.qmd)!
+
+Each semester the CDC appoints up to three students as "Data Diplomats" that work on these projects. If you're interested in becoming a Data Diplomat, please [reach out to me](contact.qmd)! 

@@ -1,0 +1,9 @@
+---
+title: "David C. Elzinga"
+---
+
+<img src="_images/prof_pic.jpg" style="float: left; margin-right: 15px; width: 150px; height: 200px; object-fit: cover;">
+
+<p>Welcome to my professional website. I'm currently an Assistant Professor of Statistics at the <a href="https://www.uwlax.edu/academics/department/mathematics-and-statistics/">University of Wisconsin-La Crosse</a>.</p>
+
+<p>This website is a great place to learn more about my lab, the <a href="cdc.qmd">Coulee Data Center</a>, and my academic work in <a href="matheco.qmd">Mathematical Ecology</a>.</p>

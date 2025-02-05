@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+### Professional Summary 
+
+---
+
+In 2018, I completed my undergraduate degree at Wichita State University in Mathematics. In 2023, I completed my Ph.D. in Mathematical Biology and my M.S. in Statistics from The University of Tennessee, Knoxville, in [Christopher's Strickland's Lab](https://math.utk.edu/labs/strickland/). 
+
+Professionally, my research is split in two parts. 
+
+- I am the director and founder of the [Coulee Data Center](cdc.qmd), an organization providing pro bono data analysis services to community services in the greater La Crosse, WI area. 
+
+- I am actively publishing research in applications of [mathematical ecology](matheco.qmd). 
+
+### Personal Summary
+
+---
+
+I am originally from the Lansing, MI area. I met my wife, Adrianna, during my time in Kansas. We have a daughter (Ruth), dog (Sunday), and a cat (Checkers). 
+
+In my free time, I train my dog for AKC hunt tests and rally competitions. I enjoy hiking and watching college basketball and football. 

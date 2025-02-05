@@ -1,0 +1,25 @@
+---
+title: "Math Ecology"
+---
+
+My classic academic training is in mathematical and statistical modeling of ecological systems. 
+
+My work primarily focuses on natural resource management. I use difference/differential equation modeling, agent-based modeling, matrix projection models, and more. Here are some highlights of my work:
+
+- Managing the sylvatic plague in black-tailed prairie dogs
+
+- De-extinction strategies for the passenger pigeon
+
+- Vaccination strategies for white-nose syndrome in little brown bats
+
+- Modeling sublethal stressors on bee colonies
+
+- Hunting  strategies to suppress the winter tick epizootic in moose
+
+- Modeling pollen competition and interference in plants 
+
+My complete works can be found on my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=9VeQbUMAAAAJ&scilu=&scisig=APQ9KKMAAAAAZ55TyEn8RHVfm838E9n3fkcsnRw&gmla=AGd7smF--gqCceTrFNlXDwaG445uNJf0IddERjOaQO7WH1lQVlg721bbHRVumQ0DnXrQZzHSYkaCcuRyLrIxJE1Ejck2MBzxh-rugA2lOm4&sciund=7843630331657514982)
+
+I enjoy working with interdisciplinary teams, and with colleagues across the world. If you're interested in working together, please [reach out to me](contact.qmd)! 
+
+I've worked with several student researchers, from REUs, programs internal to UWL, federal scholar programs, etc. If you are interested in undergraduate research, please [reach out to me](contact.qmd)! 
