@@ -1,8 +1,13 @@
 ---
-title: "David C. Elzinga"
+toc: false
 ---
 
-<img src="_images/prof_pic.jpg" style="float: left; margin-right: 15px; width: 150px; height: 200px; object-fit: cover;">
+# David C. Elzinga
+---
+
+<img src="_images/prof_pic.jpg" 
+     style="float: left; margin-right: 15px; margin-top: 12px; width: 256px; height: 193px; object-fit: cover; 
+            border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); vertical-align: top;">
 
 <p>Welcome to my professional website. I'm currently an Assistant Professor of Statistics at the <a href="https://www.uwlax.edu/academics/department/mathematics-and-statistics/">University of Wisconsin-La Crosse</a>.</p>
 
